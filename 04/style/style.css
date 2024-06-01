@@ -1,0 +1,17 @@
+.container{
+    padding: 18px 23px 100px 25px;
+    font-family: Inter; 
+}
+.right-content{
+    text-align: right;
+}
+.center-content{
+    text-align: center;
+}
+h1{
+    font-size: 40;
+    font-weight: 400;
+}
+h2{
+    font-size: 36;
+}
